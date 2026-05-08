@@ -240,7 +240,7 @@ table{
 
 td, th{
   font-family: 'Open Sans', sans-serif;
-  background-color: #3b4264; /* Your dark blue card color */
+  background-color: #3b4264;
   border-radius: 20px;
   padding: 10px;
   color: #efefef;
@@ -492,8 +492,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #B6B6B6; /* Darker than your section for contrast */
-    color: #312f2f;
+    background-color: #B6B6B6;
     padding: 40px;
     font-family: 'Open Sans', sans-serif;
 }
